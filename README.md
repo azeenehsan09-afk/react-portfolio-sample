@@ -39,6 +39,17 @@ A responsive restaurant homepage built using HTML, CSS, and Bootstrap.
 - CSS
 - Vite
 
+  ## Screenshots 📸
+
+### Home Section
+![Home Section](screenshots/Homepage.png)
+
+### Projects Section
+![Projects Section](screenshots/Projects.png)
+
+### Contact Section
+![Contact Section](screenshots/Contact.png)
+
 ## Learning Concepts Practiced 📚
 
 - React components
