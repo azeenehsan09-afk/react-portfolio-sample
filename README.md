@@ -42,13 +42,13 @@ A responsive restaurant homepage built using HTML, CSS, and Bootstrap.
   ## Screenshots 📸
 
 ### Home Section
-![Home Section](screenshots/Homepage.png)
+![Home Section](Homepage.png)
 
 ### Projects Section
-![Projects Section](screenshots/Projects.png)
+![Projects Section](Projects.png)
 
 ### Contact Section
-![Contact Section](screenshots/Contact.png)
+![Contact Section](Contact.png)
 
 ## Learning Concepts Practiced 📚
 
